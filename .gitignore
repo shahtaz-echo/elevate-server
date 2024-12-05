@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Distribution / packaging
+.Python
+env/
+myenv/
+venv/
+myenv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Django stuff:
+*.log
+*.sqlite3
+db.sqlite3
+/media
+/staticfiles
+/static
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Migrations
+# Generally, you want to keep migrations in version control
+# Uncomment the line below if you prefer to ignore migrations
+# */migrations/*.py
+# */migrations/*.pyc
+*.db
+*.DS_Store
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+*.env
+
+# Coverage
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
